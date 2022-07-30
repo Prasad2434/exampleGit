@@ -16,5 +16,10 @@ public class GetApi
 	{
 		System.out.println("Sub Operation");
 	}
+	@Test
+	public void Div()
+	{
+		System.out.println("Div Operation");
+	}
 	
 }
